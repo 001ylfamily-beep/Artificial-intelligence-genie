@@ -1,0 +1,6 @@
+{
+  "name": "AIISG Office",
+  "description": "AIISG Artificial Intelligent Genie Private Limited - Autonomous AI Office System & Mobile Executive Control Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
